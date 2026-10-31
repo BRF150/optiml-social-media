@@ -1,0 +1,37 @@
+{
+  "purpose": "OptiML Mars voice comparison - not an approved ad",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.15,
+    "use_speaker_boost": true,
+    "speed": 1.0
+  },
+  "text": "How do you lose a spacecraft... to a unit of measurement? In 1999, NASA's Mars Climate Orbiter reached Mars. One system used imperial units. The other expected metric.",
+  "files": [
+    {
+      "label": "pick-1",
+      "voice_id": "s3TPKV1kjDlVtZbl4Ksh",
+      "filename": "pick-1-s3TPKV1kjDlVtZbl4Ksh.mp3",
+      "sha256": "4b1dc6fa6092c9113d1813bc22d19c112caa306c8a38ad448112426a40e4a3a9",
+      "bytes": 165136
+    },
+    {
+      "label": "pick-2",
+      "voice_id": "ZF6FPAbjXT4488VcRRnw",
+      "filename": "pick-2-ZF6FPAbjXT4488VcRRnw.mp3",
+      "sha256": "cb831be23e07d6d32ef9d82bd8ee2580f3cb326b7bd78ccf91d5404ae0b6dafe",
+      "bytes": 224069
+    },
+    {
+      "label": "pick-3",
+      "voice_id": "zfc8CJQpe8Kqyl0vvCzo",
+      "filename": "pick-3-zfc8CJQpe8Kqyl0vvCzo.mp3",
+      "sha256": "951a1c1ec259ac32336d0c7d524961dea07e56e018f2279f54301d8880c8d1f0",
+      "bytes": 177257
+    }
+  ],
+  "failed": [],
+  "notes": "Exact IDs, no music, generated against the same script. Select by human listening. No automatic publication."
+}
