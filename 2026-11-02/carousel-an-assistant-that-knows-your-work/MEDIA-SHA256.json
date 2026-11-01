@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-02",
+  "slug": "carousel-an-assistant-that-knows-your-work",
+  "type": "carousel",
+  "files": [
+    {
+      "filename": "slide_01.png",
+      "sha256": "e7501040068f35149086d06651026b63ce57e49046fa661798b77aa6bea644b8",
+      "bytes": 123682,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-02/carousel-an-assistant-that-knows-your-work/slide_01.png"
+    },
+    {
+      "filename": "slide_02.png",
+      "sha256": "aeff0489d080a480ca55e3b1b2e0ee9c7eaff68c8f78f3ae332601524b39aa75",
+      "bytes": 124774,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-02/carousel-an-assistant-that-knows-your-work/slide_02.png"
+    },
+    {
+      "filename": "slide_03.png",
+      "sha256": "6e4f9709b9b399728fbb5b87f638b87e2ec863c9884dcef75740a8e89d2f0111",
+      "bytes": 128299,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-02/carousel-an-assistant-that-knows-your-work/slide_03.png"
+    },
+    {
+      "filename": "slide_04.png",
+      "sha256": "c009771bd779e5072f5a09aa9324a533ed92cf7ef6bff7294fc58229cd51752d",
+      "bytes": 125564,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-02/carousel-an-assistant-that-knows-your-work/slide_04.png"
+    },
+    {
+      "filename": "slide_05.png",
+      "sha256": "ed67578eacc7d9499cb43e50700247564e63e2b354a5ae8d4a9c89e77f16bc98",
+      "bytes": 130514,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-02/carousel-an-assistant-that-knows-your-work/slide_05.png"
+    },
+    {
+      "filename": "slide_06.png",
+      "sha256": "951688b46ed4af3b54211d8d2b76397c2738ff9d7106eb5b5af6af8609f8b279",
+      "bytes": 133224,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-02/carousel-an-assistant-that-knows-your-work/slide_06.png"
+    }
+  ],
+  "note": "Illustrative first-release marketing; fictional synthetic data; no real UI or credentials"
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-01",
+  "slug": "carousel-one-request-real-work",
+  "type": "carousel",
+  "files": [
+    {
+      "filename": "slide_01.png",
+      "sha256": "ef29050a6f5dd7cd20a6a38470202ecfed8d7d22bf7f139b59d366cd0899aa71",
+      "bytes": 121773,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-01/carousel-one-request-real-work/slide_01.png"
+    },
+    {
+      "filename": "slide_02.png",
+      "sha256": "ce330635617bfac6195e16fde69755c1b39ff5680555af23d738bd9d57e9a983",
+      "bytes": 124072,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-01/carousel-one-request-real-work/slide_02.png"
+    },
+    {
+      "filename": "slide_03.png",
+      "sha256": "3b60a06f1d4cd8caafae3a61800a337e9c451dc96e040597c45fc80900feb576",
+      "bytes": 123009,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-01/carousel-one-request-real-work/slide_03.png"
+    },
+    {
+      "filename": "slide_04.png",
+      "sha256": "aeab6bf3e6b1439e43317087017ebbfc56b83d46a376179278f4680e1933c971",
+      "bytes": 117856,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-01/carousel-one-request-real-work/slide_04.png"
+    },
+    {
+      "filename": "slide_05.png",
+      "sha256": "c4f93427d64f0fbdfa8b3338efaed4ac9e62ea15c9a52c3300dc87e3e57a3e6c",
+      "bytes": 122760,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-01/carousel-one-request-real-work/slide_05.png"
+    },
+    {
+      "filename": "slide_06.png",
+      "sha256": "78e4bab7a604bf6a03061d283192d0eaaf5c2954b475be59ba26c99ae2d59712",
+      "bytes": 130687,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-01/carousel-one-request-real-work/slide_06.png"
+    }
+  ],
+  "note": "Illustrative first-release marketing; fictional synthetic data; no real UI or credentials"
+}

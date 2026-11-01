@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-01",
+  "slug": "reel-your-ai-should-learn-your-job",
+  "type": "reel",
+  "files": [
+    {
+      "filename": "OptiML_reel-your-ai-should-learn-your-job.mp4",
+      "sha256": "53cdfc549e5f4bbd8b66974c43f9ba0d34432313fe99c9cf8dd3376f7d5a5c5f",
+      "bytes": 947808,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-01/reel-your-ai-should-learn-your-job/OptiML_reel-your-ai-should-learn-your-job.mp4"
+    },
+    {
+      "filename": "cover.png",
+      "sha256": "fc1cc08a1bfb4b702ab41b5a068274a841a633a6eaddeaa22e1b7cb853cda0ff",
+      "bytes": 153525,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-01/reel-your-ai-should-learn-your-job/cover.png"
+    }
+  ],
+  "note": "Illustrative first-release marketing; fictional synthetic data; no real UI or credentials"
+}

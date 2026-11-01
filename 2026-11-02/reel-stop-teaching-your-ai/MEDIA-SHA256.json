@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-02",
+  "slug": "reel-stop-teaching-your-ai",
+  "type": "reel",
+  "files": [
+    {
+      "filename": "OptiML_reel-stop-teaching-your-ai.mp4",
+      "sha256": "9584668c8e1a8768e81a79c24b3ab65eeee99bab05d1f406d5c040757809177a",
+      "bytes": 925847,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-02/reel-stop-teaching-your-ai/OptiML_reel-stop-teaching-your-ai.mp4"
+    },
+    {
+      "filename": "cover.png",
+      "sha256": "90e6d9a1c52d7ec801a87f76c73aff540558ae438a44ca897b6819916c3cabb0",
+      "bytes": 139478,
+      "url": "https://brf150.github.io/optiml-social-media/2026-11-02/reel-stop-teaching-your-ai/cover.png"
+    }
+  ],
+  "note": "Illustrative first-release marketing; fictional synthetic data; no real UI or credentials"
+}
